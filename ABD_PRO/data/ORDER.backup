@@ -1,0 +1,8 @@
+manejador
+usuario
+contrato
+pago
+ingreso
+egreso
+
+select (select count(*) from manejador) as 'M', (select count(*) from usuario) as 'U', (select count(*) from contrato) as 'C', (select count(*) from pago) as 'P', (select count(*) from ingreso) as 'I', (select count(*) from egreso) as 'E';

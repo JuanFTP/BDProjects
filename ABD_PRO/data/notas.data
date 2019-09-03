@@ -1,0 +1,11 @@
+Notas de funcion SQL
+Administrar contratos
+Contrato
+	Folio
+	Fecha
+	Descripcion
+	Tipo
+	Estado
+	ID Usuario
+		Nombre de Usuario
+	Login
